@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Rubik", sans-serif;
+    letter-spacing: 0.4px;
+}
+
+body{
+    background-color: #f3f3f3;
+    height: 100%;
+    background: linear-gradient(
+        135deg,
+        #6f6df4,
+        #4c4af4
+    ) fixed;
+    background-size: 100% 50%;
+    background-repeat: no-repeat;
+}
